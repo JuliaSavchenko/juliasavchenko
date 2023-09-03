@@ -1,7 +1,8 @@
 ![Header](https://github.com/JuliaSavchenko/juliasavchenko/blob/main/assets/header.gif)
-Hey there! My name is Julia Savchenko
-=======================================================================================================================================
 
+=======================================================================================================================================
+Hey there! My name is Julia Savchenko
+<br/>
 I'm an enthusiastic developer who's all about front-end technologies and loves diving into logical challenges.
 --------------------------------------------------------------------------------------------------------------
 
