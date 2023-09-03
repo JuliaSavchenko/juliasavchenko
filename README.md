@@ -1,3 +1,4 @@
+![Header](https://github.com/JuliaSavchenko/juliasavchenko/blob/main/assets/header.gif)
 Hey there! My name is Julia Savchenko
 =======================================================================================================================================
 
