@@ -1,7 +1,9 @@
 ![Header](https://github.com/JuliaSavchenko/juliasavchenko/blob/main/assets/header.gif) 
-<div>Hey there! My name is Julia Savchenko</div>
-<br/>
-I'm an enthusiastic developer who's all about front-end technologies and loves diving into logical challenges.
+
+Hey there! My name is Julia Savchenko ✨
+
+I'm an enthusiastic developer who's all about front-end technologies and loves diving into logical challenges!
+
 --------------------------------------------------------------------------------------------------------------
 
 React, TypeScript, and Tailwind make my heart sing, but I'm also super excited to explore new stacks. 🌟 Learning is a never-ending adventure for me! 📚
