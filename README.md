@@ -2,7 +2,7 @@
 
 Hey there! My name is Julia Savchenko ✨
 
-I'm an enthusiastic frontend developer who's all about front-end technologies and loves diving into logical challenges!
+I'm an enthusiastic Frontend developer who's all about front-end technologies and loves diving into logical challenges!
 
 --------------------------------------------------------------------------------------------------------------
 
